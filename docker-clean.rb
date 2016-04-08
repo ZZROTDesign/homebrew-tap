@@ -5,7 +5,7 @@ class DockerClean < Formula
   homepage "https://github.com/ZZROTDesign/docker-clean"
   url "https://github.com/ZZROTDesign/docker-clean/archive/v1.1.1.tar.gz"
   version "1.1.1"
-  sha256 "03fc8abb42e43f5005c2cea39a10ac4fda5b0c6aeb3a471cf56f8164ba42bc5e"
+  sha256 "36441e21ea7ce2762c3491e8908ea8f6f6564f92bea529bb15f5288379508bd2"
 
   def install
     bin.install "docker-clean"
