@@ -7,7 +7,6 @@ class DockerClean < Formula
   version "1.0.3"
   sha256 "03fc8abb42e43f5005c2cea39a10ac4fda5b0c6aeb3a471cf56f8164ba42bc5e"
 
-
   def install
     bin.install "docker-clean"
     
