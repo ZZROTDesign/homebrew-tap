@@ -1,4 +1,7 @@
 # Docker-Clean Script
+# Maintained by Killian Brackey && Sean Kilgarriff at ZZROT Design
+# Contact us at docker@zzrot.com for any issues or fork and pull from
+# the github repo below.  Happy cleaning!
 
 class DockerClean < Formula
   desc "A script that cleans docker containers, images, and volumes."
