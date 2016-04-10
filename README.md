@@ -3,7 +3,7 @@
 ## Utilies:
 
 **Docker-clean**
-
+- A simple Shell script to clean up the Docker Daemon.
 - The repository can be found [here](https://github.com/ZZROTDesign/docker-clean)
 - [![Build Status](https://travis-ci.org/ZZROTDesign/docker-clean.svg?branch=v1.2.0)](https://travis-ci.org/ZZROTDesign/docker-clean)
 
