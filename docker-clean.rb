@@ -6,9 +6,9 @@
 class DockerClean < Formula
   desc "A script that cleans docker containers, images, and volumes."
   homepage "https://github.com/ZZROTDesign/docker-clean"
-  url "https://github.com/ZZROTDesign/docker-clean/archive/v1.3.0.tar.gz"
-  version "1.3.0"
-  sha256 "bd238718aeb16028cd4d8f3ad0f7a3e9b459228fc69dd366af2af0e438c03fb6"
+  url "https://github.com/ZZROTDesign/docker-clean/archive/v1.3.1.tar.gz"
+  version "1.3.1"
+  sha256 ""
 
   def install
     bin.install "docker-clean"
